@@ -178,7 +178,7 @@
             this.lstContacts.FormattingEnabled = true;
             this.lstContacts.Location = new System.Drawing.Point(346, 12);
             this.lstContacts.Name = "lstContacts";
-            this.lstContacts.Size = new System.Drawing.Size(223, 498);
+            this.lstContacts.Size = new System.Drawing.Size(223, 485);
             this.lstContacts.Sorted = true;
             this.lstContacts.TabIndex = 3;
             this.lstContacts.DrawItem += new System.Windows.Forms.DrawItemEventHandler(this.lstContacts_DrawItem);
@@ -212,7 +212,7 @@
             this.btnReset.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.btnReset.Location = new System.Drawing.Point(191, 19);
             this.btnReset.Name = "btnReset";
-            this.btnReset.Size = new System.Drawing.Size(75, 62);
+            this.btnReset.Size = new System.Drawing.Size(75, 71);
             this.btnReset.TabIndex = 2;
             this.btnReset.UseVisualStyleBackColor = true;
             this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
@@ -252,7 +252,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(593, 525);
+            this.ClientSize = new System.Drawing.Size(593, 516);
             this.Controls.Add(this.btnSuppr);
             this.Controls.Add(this.btnModifier);
             this.Controls.Add(this.lstContacts);
@@ -260,7 +260,7 @@
             this.Controls.Add(this.grpAjout);
             this.Controls.Add(this.pctPhoto);
             this.Name = "Form1";
-            this.Text = "Gestionnaire de contacts";
+            this.Text = "e";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.grpAjout.ResumeLayout(false);
             this.grpAjout.PerformLayout();
