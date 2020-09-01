@@ -442,7 +442,7 @@ namespace Gestionnaire
                     }
                 }
             }
-            disableEditFields(true); 
+            disableEditFields(true);
         }
 
         /**
