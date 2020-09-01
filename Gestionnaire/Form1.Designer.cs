@@ -260,7 +260,7 @@
             this.Controls.Add(this.grpAjout);
             this.Controls.Add(this.pctPhoto);
             this.Name = "Form1";
-            this.Text = "e";
+            this.Text = "Gestionnaire de contacts";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.grpAjout.ResumeLayout(false);
             this.grpAjout.PerformLayout();
